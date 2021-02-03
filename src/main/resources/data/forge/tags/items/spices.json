@@ -1,0 +1,7 @@
+{
+		"replace": false,
+		"values": [
+			"#forge:spices/blackpepper",
+			"#forge:spices/saltandpepper"
+	]
+}
