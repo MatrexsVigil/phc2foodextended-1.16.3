@@ -1,0 +1,28 @@
+{
+	"type": "minecraft:crafting_shapeless",
+	
+	"ingredients":
+	[
+    {
+      "tag": "forge:tool_bakeware"
+    },
+    {
+      "tag": "forge:bread"
+    },
+    {
+      "tag": "forge:groundcinnamon"
+    },
+	{
+      "tag": "forge:sugar"
+    },
+	{
+      "tag": "forge:butter"
+    }
+
+
+	],
+	
+	"result": {"item": "pamhc2foodextended:cinnamontoastitem",
+	"count": 1}
+	
+}

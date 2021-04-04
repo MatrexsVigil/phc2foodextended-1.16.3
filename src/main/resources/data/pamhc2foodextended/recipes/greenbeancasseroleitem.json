@@ -1,0 +1,25 @@
+{
+	"type": "minecraft:crafting_shapeless",
+	
+	"ingredients":
+	[
+    {
+      "tag": "forge:tool_bakeware"
+    },
+    {
+      "tag": "forge:crops/bean"
+    },
+    {
+      "tag": "forge:crops/onion"
+    },
+	{
+      "tag": "forge:cream"
+    }
+
+
+	],
+	
+	"result": {"item": "pamhc2foodextended:greenbeancasseroleitem",
+	"count": 1}
+	
+}

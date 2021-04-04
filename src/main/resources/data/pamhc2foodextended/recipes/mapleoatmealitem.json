@@ -1,0 +1,25 @@
+{
+	"type": "minecraft:crafting_shapeless",
+	
+	"ingredients":
+	[
+    {
+      "tag": "forge:tool_pot"
+    },
+    {
+      "tag": "forge:crops/oats"
+    },
+    {
+      "tag": "forge:crops/maple"
+    },
+	{
+      "tag": "forge:water"
+    }
+
+
+	],
+	
+	"result": {"item": "pamhc2foodextended:mapleoatmealitem",
+	"count": 1}
+	
+}

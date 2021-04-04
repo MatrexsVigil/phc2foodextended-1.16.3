@@ -1,0 +1,28 @@
+{
+	"type": "minecraft:crafting_shapeless",
+	
+	"ingredients":
+	[
+    {
+      "tag": "forge:tool_skillet"
+    },
+    {
+      "tag": "forge:rawpork"
+    },
+    {
+      "tag": "forge:crops/lettuce"
+    },
+	{
+      "tag": "forge:crops/tomato"
+    },
+	{
+      "tag": "forge:bread"
+    }
+
+
+	],
+	
+	"result": {"item": "pamhc2foodextended:bltitem",
+	"count": 1}
+	
+}

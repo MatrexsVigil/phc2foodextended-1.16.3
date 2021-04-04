@@ -1,0 +1,34 @@
+{
+	"type": "minecraft:crafting_shapeless",
+	
+	"ingredients":
+	[
+    {
+      "tag": "forge:tool_pot"
+    },
+    {
+      "tag": "forge:rawmeats"
+    },
+    {
+      "tag": "forge:crops/chilipepper"
+    },
+	{
+      "tag": "forge:crops/tomato"
+    },
+	{
+      "tag": "forge:onions"
+    },
+	{
+      "tag": "forge:crops/spiceleaf"
+    },
+	{
+      "tag": "forge:crops/bean"
+    }
+
+
+	],
+	
+	"result": {"item": "pamhc2foodextended:chiliitem",
+	"count": 1}
+	
+}

@@ -1,0 +1,25 @@
+{
+	"type": "minecraft:crafting_shapeless",
+	
+	"ingredients":
+	[
+    {
+      "tag": "forge:tool_skillet"
+    },
+    {
+      "tag": "forge:cookingoil"
+    },
+    {
+      "tag": "forge:batter"
+    },
+	{
+      "tag": "forge:butter"
+    }
+
+
+	],
+	
+	"result": {"item": "pamhc2foodextended:pancakesitem",
+	"count": 1}
+	
+}

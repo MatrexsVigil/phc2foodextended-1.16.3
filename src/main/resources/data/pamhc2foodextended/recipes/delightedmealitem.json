@@ -1,0 +1,25 @@
+{
+	"type": "minecraft:crafting_shapeless",
+	
+	"ingredients":
+	[
+    {
+      "tag": "forge:tool_cuttingboard"
+    },
+    {
+      "tag": "forge:sodas"
+    },
+    {
+      "item": "pamhc2foodextended:mcpamitem"
+    },
+    {
+      "item": "pamhc2foodcore:friesitem"
+    }
+
+
+	],
+	
+	"result": {"item": "pamhc2foodextended:delightedmealitem",
+	"count": 1}
+	
+}

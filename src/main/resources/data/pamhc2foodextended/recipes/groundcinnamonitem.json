@@ -1,0 +1,18 @@
+{
+	"type": "minecraft:crafting_shapeless",
+	
+	"ingredients":
+	[
+    {
+      "tag": "forge:tool_grinder"
+    },
+    {
+      "tag": "forge:crops/cinnamon"
+    }
+
+	],
+	
+	"result": {"item": "pamhc2foodextended:groundcinnamonitem",
+	"count": 1}
+	
+}

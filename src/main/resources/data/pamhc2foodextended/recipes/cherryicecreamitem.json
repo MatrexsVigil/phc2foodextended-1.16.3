@@ -1,0 +1,22 @@
+{
+	"type": "minecraft:crafting_shapeless",
+	
+	"ingredients":
+	[
+    {
+      "tag": "forge:tool_mixingbowl"
+    },
+    {
+      "tag": "forge:icecream"
+    },
+    {
+      "tag": "forge:crops/cherry"
+    }
+
+
+	],
+	
+	"result": {"item": "pamhc2foodextended:cherryicecreamitem",
+	"count": 1}
+	
+}

@@ -1,0 +1,28 @@
+{
+	"type": "minecraft:crafting_shapeless",
+	
+	"ingredients":
+	[
+    {
+      "tag": "forge:tool_skillet"
+    },
+    {
+      "tag": "forge:cookingoil"
+    },
+    {
+      "tag": "forge:batter"
+    },
+	{
+      "tag": "forge:butter"
+    },
+	{
+      "tag": "forge:egg"
+    }
+
+
+	],
+	
+	"result": {"item": "pamhc2foodextended:wafflesitem",
+	"count": 1}
+	
+}

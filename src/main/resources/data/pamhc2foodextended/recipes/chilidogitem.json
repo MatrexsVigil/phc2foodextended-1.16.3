@@ -1,0 +1,22 @@
+{
+	"type": "minecraft:crafting_shapeless",
+	
+	"ingredients":
+	[
+    {
+      "tag": "forge:tool_skillet"
+    },
+    {
+      "item": "pamhc2foodcore:hotdogitem"
+    },
+    {
+      "item": "pamhc2foodextended:chiliitem"
+    }
+
+
+	],
+	
+	"result": {"item": "pamhc2foodextended:chilidogitem",
+	"count": 1}
+	
+}

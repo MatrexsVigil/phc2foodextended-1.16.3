@@ -1,0 +1,28 @@
+{
+	"type": "minecraft:crafting_shapeless",
+	
+	"ingredients":
+	[
+    {
+      "tag": "forge:tool_pot"
+    },
+    {
+      "tag": "forge:crops/oats"
+    },
+    {
+      "tag": "forge:groundcinnamon"
+    },
+	{
+      "tag": "forge:crops/apple"
+    },
+	{
+      "tag": "forge:water"
+    }
+
+
+	],
+	
+	"result": {"item": "pamhc2foodextended:cinnamonappleoatmealitem",
+	"count": 1}
+	
+}

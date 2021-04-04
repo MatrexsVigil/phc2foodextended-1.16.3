@@ -1,0 +1,28 @@
+{
+	"type": "minecraft:crafting_shapeless",
+	
+	"ingredients":
+	[
+    {
+      "tag": "forge:tool_skillet"
+    },
+    {
+      "tag": "forge:bread"
+    },
+    {
+      "tag": "forge:egg"
+    },
+	{
+      "tag": "forge:groundcinnamon"
+    },
+	{
+      "tag": "forge:milk"
+    }
+
+
+	],
+	
+	"result": {"item": "pamhc2foodextended:frenchtoastitem",
+	"count": 1}
+	
+}

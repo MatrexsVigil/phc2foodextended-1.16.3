@@ -1,0 +1,22 @@
+{
+	"type": "minecraft:crafting_shapeless",
+	
+	"ingredients":
+	[
+    {
+      "tag": "forge:tool_juicer"
+    },
+    {
+      "tag": "forge:crops/carrot"
+    },
+    {
+      "tag": "forge:crops/carrot"
+    }
+
+
+	],
+	
+	"result": {"item": "pamhc2foodextended:carrotjuiceitem",
+	"count": 1}
+	
+}

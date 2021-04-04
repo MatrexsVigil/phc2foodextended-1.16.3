@@ -1,0 +1,28 @@
+{
+	"type": "minecraft:crafting_shapeless",
+	
+	"ingredients":
+	[
+    {
+      "tag": "forge:tool_pot"
+    },
+    {
+      "tag": "forge:rawchicken"
+    },
+    {
+      "tag": "forge:crops/carrot"
+    },
+	{
+      "tag": "forge:pasta"
+    },
+	{
+      "tag": "forge:stock"
+    }
+
+
+	],
+	
+	"result": {"item": "pamhc2foodextended:chickennoodlesoupitem",
+	"count": 1}
+	
+}

@@ -1,0 +1,22 @@
+{
+	"type": "minecraft:crafting_shapeless",
+	
+	"ingredients":
+	[
+    {
+      "tag": "forge:tool_bakeware"
+    },
+    {
+      "tag": "forge:dough"
+    },
+    {
+      "tag": "forge:butter"
+    }
+
+
+	],
+	
+	"result": {"item": "pamhc2foodextended:biscuititem",
+	"count": 1}
+	
+}

@@ -1,0 +1,31 @@
+{
+	"type": "minecraft:crafting_shapeless",
+	
+	"ingredients":
+	[
+    {
+      "tag": "forge:tool_skillet"
+    },
+    {
+      "tag": "forge:cookingoil"
+    },
+    {
+      "tag": "forge:batter"
+    },
+	{
+      "tag": "forge:butter"
+    },
+	{
+      "tag": "forge:egg"
+    },
+	{
+      "tag": "forge:crops/maple"
+    }
+
+
+	],
+	
+	"result": {"item": "pamhc2foodextended:maplesyrupwafflesitem",
+	"count": 1}
+	
+}

@@ -1,0 +1,29 @@
+{
+	"type": "minecraft:crafting_shapeless",
+	
+	"ingredients":
+	[
+    {
+      "tag": "forge:tool_skillet"
+    },
+    {
+      "item": "pamhc2foodcore:groundbeefitem"
+    },
+	{
+      "tag": "forge:rawpork"
+    },
+	{
+      "tag": "forge:mushrooms"
+    },
+	{
+      "tag": "forge:condiments"
+    },
+	{
+      "tag": "forge:bread"
+    }
+	],
+	
+	"result": {"item": "pamhc2foodextended:baconmushroomburgeritem",
+	"count": 1}
+	
+}

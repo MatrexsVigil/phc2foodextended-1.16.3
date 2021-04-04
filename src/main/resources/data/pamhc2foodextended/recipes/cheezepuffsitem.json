@@ -1,0 +1,22 @@
+{
+	"type": "minecraft:crafting_shapeless",
+	
+	"ingredients":
+	[
+    {
+      "tag": "forge:tool_pot"
+    },
+    {
+      "tag": "forge:cornmeal"
+    },
+    {
+      "tag": "forge:cheese"
+    }
+
+
+	],
+	
+	"result": {"item": "pamhc2foodextended:cheezepuffsitem",
+	"count": 1}
+	
+}

@@ -1,0 +1,28 @@
+{
+	"type": "minecraft:crafting_shapeless",
+	
+	"ingredients":
+	[
+    {
+      "tag": "forge:tool_mixingbowl"
+    },
+    {
+      "tag": "forge:crops/cabbage"
+    },
+    {
+      "tag": "forge:crops/carrot"
+    },
+	{
+      "tag": "forge:condiments/mayonaise"
+    },
+	{
+      "tag": "forge:vinegar"
+    }
+
+
+	],
+	
+	"result": {"item": "pamhc2foodextended:coleslawitem",
+	"count": 1}
+	
+}

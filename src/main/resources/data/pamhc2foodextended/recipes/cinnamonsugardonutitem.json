@@ -1,0 +1,28 @@
+{
+	"type": "minecraft:crafting_shapeless",
+	
+	"ingredients":
+	[
+    {
+      "tag": "forge:tool_pot"
+    },
+    {
+      "tag": "forge:cookingoil"
+    },
+    {
+      "tag": "forge:batter"
+    },
+	{
+      "tag": "forge:groundcinnamon"
+    },
+	{
+      "tag": "forge:sugar"
+    }
+
+
+	],
+	
+	"result": {"item": "pamhc2foodextended:cinnamonsugardonutitem",
+	"count": 1}
+	
+}

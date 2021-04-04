@@ -1,0 +1,34 @@
+{
+	"type": "minecraft:crafting_shapeless",
+	
+	"ingredients":
+	[
+    {
+      "tag": "forge:tool_mixingbowl"
+    },
+    {
+      "tag": "forge:crops/potato"
+    },
+    {
+      "tag": "forge:condiments/mayonaise"
+    },
+	{
+      "tag": "forge:condiments/mustard"
+    },
+	{
+      "tag": "forge:crops/spiceleaf"
+    },
+	{
+      "tag": "forge:egg"
+    },
+	{
+      "tag": "forge:onions"
+    }
+
+
+	],
+	
+	"result": {"item": "pamhc2foodextended:potatosaladitem",
+	"count": 1}
+	
+}

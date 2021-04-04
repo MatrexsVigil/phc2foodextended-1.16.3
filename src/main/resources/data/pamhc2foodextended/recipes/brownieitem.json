@@ -1,0 +1,28 @@
+{
+	"type": "minecraft:crafting_shapeless",
+	
+	"ingredients":
+	[
+    {
+      "tag": "forge:tool_bakeware"
+    },
+    {
+      "tag": "forge:cocoapowder"
+    },
+    {
+      "tag": "forge:flour"
+    },
+	{
+      "tag": "forge:egg"
+    },
+	{
+      "tag": "forge:sugar"
+    }
+
+
+	],
+	
+	"result": {"item": "pamhc2foodextended:brownieitem",
+	"count": 1}
+	
+}
